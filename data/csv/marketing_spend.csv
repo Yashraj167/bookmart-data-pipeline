@@ -1,0 +1,301 @@
+spend_date,campaign_id,campaign_name,channel,spend_usd,impressions,clicks
+2026-08-01,101,Diwali Book Fest,email,97.01,9296,104
+2026-08-01,102,Summer Reads,social,48.7,16628,282
+2026-08-01,103,Back to School,search,138.14,37741,541
+2026-08-01,104,Author Spotlight,social,85.15,3952,58
+2026-08-01,105,Winter Sale,display,220.49,3739,142
+2026-08-02,101,Diwali Book Fest,email,145.78,37713,1168
+2026-08-02,102,Summer Reads,social,21.82,20231,1021
+2026-08-02,103,Back to School,search,115.27,12463,559
+2026-08-02,104,Author Spotlight,social,233.78,12189,253
+2026-08-02,105,Winter Sale,display,47.08,8698,127
+2026-08-03,101,Diwali Book Fest,email,246.0,24541,986
+2026-08-03,102,Summer Reads,social,292.47,32108,1181
+2026-08-03,103,Back to School,search,102.09,26807,373
+2026-08-03,104,Author Spotlight,social,217.28,25700,998
+2026-08-03,105,Winter Sale,display,236.46,5003,215
+2026-08-04,101,Diwali Book Fest,email,262.62,7229,381
+2026-08-04,102,Summer Reads,social,197.99,26911,643
+2026-08-04,103,Back to School,search,119.48,25909,469
+2026-08-04,104,Author Spotlight,social,211.39,19496,879
+2026-08-04,105,Winter Sale,display,67.92,6679,270
+2026-08-05,101,Diwali Book Fest,email,126.25,18043,327
+2026-08-05,102,Summer Reads,social,110.8,38500,807
+2026-08-05,103,Back to School,search,28.99,5665,121
+2026-08-05,104,Author Spotlight,social,38.53,22673,681
+2026-08-05,105,Winter Sale,display,108.11,39170,2108
+2026-08-06,101,Diwali Book Fest,email,276.07,34717,1033
+2026-08-06,102,Summer Reads,social,59.1,32071,549
+2026-08-06,103,Back to School,search,229.16,38789,1433
+2026-08-06,104,Author Spotlight,social,131.83,30077,1650
+2026-08-06,105,Winter Sale,display,58.73,16373,980
+2026-08-07,101,Diwali Book Fest,email,33.19,34343,499
+2026-08-07,102,Summer Reads,social,64.79,9185,162
+2026-08-07,103,Back to School,search,127.73,29666,1181
+2026-08-07,104,Author Spotlight,social,291.9,32674,1191
+2026-08-07,105,Winter Sale,display,52.07,2752,121
+2026-08-08,101,Diwali Book Fest,email,235.21,37190,1768
+2026-08-08,102,Summer Reads,social,141.73,24293,378
+2026-08-08,103,Back to School,search,222.19,31735,322
+2026-08-08,104,Author Spotlight,social,233.35,19261,1128
+2026-08-08,105,Winter Sale,display,263.75,35271,1962
+2026-08-09,101,Diwali Book Fest,email,162.15,21558,1122
+2026-08-09,102,Summer Reads,social,233.5,15035,265
+2026-08-09,103,Back to School,search,278.28,37348,2154
+2026-08-09,104,Author Spotlight,social,156.81,2037,81
+2026-08-09,105,Winter Sale,display,266.04,9331,526
+2026-08-10,101,Diwali Book Fest,email,87.44,22153,486
+2026-08-10,102,Summer Reads,social,43.98,39182,2246
+2026-08-10,103,Back to School,search,293.84,33849,1719
+2026-08-10,104,Author Spotlight,social,55.95,36911,1782
+2026-08-10,105,Winter Sale,display,66.24,33148,1900
+2026-08-11,101,Diwali Book Fest,email,138.48,36581,1961
+2026-08-11,102,Summer Reads,social,231.47,15880,896
+2026-08-11,103,Back to School,search,131.72,15182,693
+2026-08-11,104,Author Spotlight,social,164.92,26472,844
+2026-08-11,105,Winter Sale,display,37.93,9930,222
+2026-08-12,101,Diwali Book Fest,email,84.43,3378,133
+2026-08-12,102,Summer Reads,social,218.2,16432,170
+2026-08-12,103,Back to School,search,273.52,5858,125
+2026-08-12,104,Author Spotlight,social,86.64,23654,320
+2026-08-12,105,Winter Sale,display,57.05,33812,700
+2026-08-13,101,Diwali Book Fest,email,88.04,39423,1530
+2026-08-13,102,Summer Reads,social,73.31,32996,1662
+2026-08-13,103,Back to School,search,119.2,8352,358
+2026-08-13,104,Author Spotlight,social,224.14,28941,965
+2026-08-13,105,Winter Sale,display,223.9,8449,110
+2026-08-14,101,Diwali Book Fest,email,73.26,9161,205
+2026-08-14,102,Summer Reads,social,71.38,31400,534
+2026-08-14,103,Back to School,search,278.51,32318,726
+2026-08-14,104,Author Spotlight,social,259.67,31041,1564
+2026-08-14,105,Winter Sale,display,299.8,8416,105
+2026-08-15,101,Diwali Book Fest,email,279.38,2967,173
+2026-08-15,102,Summer Reads,social,155.98,17491,320
+2026-08-15,103,Back to School,search,272.68,16008,852
+2026-08-15,104,Author Spotlight,social,295.89,12789,370
+2026-08-15,105,Winter Sale,display,239.84,19380,1091
+2026-08-16,101,Diwali Book Fest,email,288.05,20694,644
+2026-08-16,102,Summer Reads,social,156.27,38422,1655
+2026-08-16,103,Back to School,search,291.24,14445,358
+2026-08-16,104,Author Spotlight,social,37.07,39957,1869
+2026-08-16,105,Winter Sale,display,183.57,22552,289
+2026-08-17,101,Diwali Book Fest,email,168.72,34954,1956
+2026-08-17,102,Summer Reads,social,42.43,5727,332
+2026-08-17,103,Back to School,search,39.03,14178,190
+2026-08-17,104,Author Spotlight,social,283.65,17414,525
+2026-08-17,105,Winter Sale,display,186.47,39334,877
+2026-08-18,101,Diwali Book Fest,email,183.43,7372,228
+2026-08-18,102,Summer Reads,social,93.01,36261,936
+2026-08-18,103,Back to School,search,130.82,22590,495
+2026-08-18,104,Author Spotlight,social,280.13,21660,711
+2026-08-18,105,Winter Sale,display,193.92,6754,70
+2026-08-19,101,Diwali Book Fest,email,40.51,38896,2326
+2026-08-19,102,Summer Reads,social,57.09,15969,563
+2026-08-19,103,Back to School,search,266.2,24872,1344
+2026-08-19,104,Author Spotlight,social,142.69,26217,635
+2026-08-19,105,Winter Sale,display,191.27,37600,1698
+2026-08-20,101,Diwali Book Fest,email,248.79,36664,380
+2026-08-20,102,Summer Reads,social,49.0,21620,1223
+2026-08-20,103,Back to School,search,269.12,10800,250
+2026-08-20,104,Author Spotlight,social,98.89,38256,679
+2026-08-20,105,Winter Sale,display,77.01,15803,725
+2026-08-21,101,Diwali Book Fest,email,90.31,19300,680
+2026-08-21,102,Summer Reads,social,138.6,5329,77
+2026-08-21,103,Back to School,search,113.4,20132,245
+2026-08-21,104,Author Spotlight,social,93.35,10573,442
+2026-08-21,105,Winter Sale,display,139.75,30956,1163
+2026-08-22,101,Diwali Book Fest,email,284.61,2633,41
+2026-08-22,102,Summer Reads,social,253.69,11768,438
+2026-08-22,103,Back to School,search,55.68,38210,665
+2026-08-22,104,Author Spotlight,social,281.26,22202,626
+2026-08-22,105,Winter Sale,display,78.82,4614,253
+2026-08-23,101,Diwali Book Fest,email,119.03,18353,795
+2026-08-23,102,Summer Reads,social,133.79,38692,2097
+2026-08-23,103,Back to School,search,86.29,12128,682
+2026-08-23,104,Author Spotlight,social,247.02,12649,743
+2026-08-23,105,Winter Sale,display,226.24,29020,326
+2026-08-24,101,Diwali Book Fest,email,135.28,23770,1167
+2026-08-24,102,Summer Reads,social,240.46,18263,426
+2026-08-24,103,Back to School,search,30.84,9084,264
+2026-08-24,104,Author Spotlight,social,248.64,32847,693
+2026-08-24,105,Winter Sale,display,249.75,32166,884
+2026-08-25,101,Diwali Book Fest,email,204.81,16915,357
+2026-08-25,102,Summer Reads,social,262.02,28113,742
+2026-08-25,103,Back to School,search,162.63,20292,559
+2026-08-25,104,Author Spotlight,social,27.73,37141,986
+2026-08-25,105,Winter Sale,display,289.51,19118,361
+2026-08-26,101,Diwali Book Fest,email,187.04,19397,231
+2026-08-26,102,Summer Reads,social,107.83,24654,1144
+2026-08-26,103,Back to School,search,271.86,35516,560
+2026-08-26,104,Author Spotlight,social,218.46,14457,328
+2026-08-26,105,Winter Sale,display,245.82,2110,75
+2026-08-27,101,Diwali Book Fest,email,39.59,14912,420
+2026-08-27,102,Summer Reads,social,205.75,23639,972
+2026-08-27,103,Back to School,search,104.09,10167,467
+2026-08-27,104,Author Spotlight,social,111.33,22269,965
+2026-08-27,105,Winter Sale,display,73.72,21376,806
+2026-08-28,101,Diwali Book Fest,email,272.79,26847,1177
+2026-08-28,102,Summer Reads,social,173.42,39296,984
+2026-08-28,103,Back to School,search,78.85,2026,51
+2026-08-28,104,Author Spotlight,social,143.8,23118,768
+2026-08-28,105,Winter Sale,display,242.25,16005,569
+2026-08-29,101,Diwali Book Fest,email,99.46,13120,563
+2026-08-29,102,Summer Reads,social,286.56,23966,351
+2026-08-29,103,Back to School,search,82.9,17392,758
+2026-08-29,104,Author Spotlight,social,32.94,15050,261
+2026-08-29,105,Winter Sale,display,235.18,33138,1344
+2026-08-30,101,Diwali Book Fest,email,196.33,31846,978
+2026-08-30,102,Summer Reads,social,127.51,14742,676
+2026-08-30,103,Back to School,search,203.7,28191,625
+2026-08-30,104,Author Spotlight,social,260.92,2363,129
+2026-08-30,105,Winter Sale,display,81.28,8985,439
+2026-08-31,101,Diwali Book Fest,email,176.07,35944,1194
+2026-08-31,102,Summer Reads,social,244.4,9953,326
+2026-08-31,103,Back to School,search,186.73,36808,2186
+2026-08-31,104,Author Spotlight,social,221.4,31004,1259
+2026-08-31,105,Winter Sale,display,273.92,35081,1099
+2026-09-01,101,Diwali Book Fest,email,228.22,31223,1712
+2026-09-01,102,Summer Reads,social,230.5,33108,1076
+2026-09-01,103,Back to School,search,165.96,20173,974
+2026-09-01,104,Author Spotlight,social,41.7,17679,419
+2026-09-01,105,Winter Sale,display,114.04,20725,450
+2026-09-02,101,Diwali Book Fest,email,62.23,37399,524
+2026-09-02,102,Summer Reads,social,217.8,27102,1211
+2026-09-02,103,Back to School,search,112.65,6209,190
+2026-09-02,104,Author Spotlight,social,77.91,32534,1001
+2026-09-02,105,Winter Sale,display,235.54,29534,870
+2026-09-03,101,Diwali Book Fest,email,234.37,3280,173
+2026-09-03,102,Summer Reads,social,283.97,26928,911
+2026-09-03,103,Back to School,search,258.97,21569,1028
+2026-09-03,104,Author Spotlight,social,225.7,29460,1087
+2026-09-03,105,Winter Sale,display,96.42,16453,566
+2026-09-04,101,Diwali Book Fest,email,114.12,33827,387
+2026-09-04,102,Summer Reads,social,255.34,28497,1316
+2026-09-04,103,Back to School,search,169.55,10364,611
+2026-09-04,104,Author Spotlight,social,205.64,27822,1101
+2026-09-04,105,Winter Sale,display,58.0,7501,316
+2026-09-05,101,Diwali Book Fest,email,92.84,32257,615
+2026-09-05,102,Summer Reads,social,111.52,23453,482
+2026-09-05,103,Back to School,search,286.34,26846,641
+2026-09-05,104,Author Spotlight,social,42.93,29627,669
+2026-09-05,105,Winter Sale,display,34.58,3270,155
+2026-09-06,101,Diwali Book Fest,email,39.21,24935,528
+2026-09-06,102,Summer Reads,social,285.89,4638,221
+2026-09-06,103,Back to School,search,193.97,15065,782
+2026-09-06,104,Author Spotlight,social,207.45,17633,287
+2026-09-06,105,Winter Sale,display,150.21,38960,2235
+2026-09-07,101,Diwali Book Fest,email,66.98,18793,908
+2026-09-07,102,Summer Reads,social,65.85,9506,464
+2026-09-07,103,Back to School,search,27.19,22384,344
+2026-09-07,104,Author Spotlight,social,274.25,22444,870
+2026-09-07,105,Winter Sale,display,220.2,26596,793
+2026-09-08,101,Diwali Book Fest,email,252.56,6980,276
+2026-09-08,102,Summer Reads,social,236.29,17915,270
+2026-09-08,103,Back to School,search,178.46,9933,494
+2026-09-08,104,Author Spotlight,social,139.95,4691,128
+2026-09-08,105,Winter Sale,display,201.31,26285,353
+2026-09-09,101,Diwali Book Fest,email,250.25,2829,148
+2026-09-09,102,Summer Reads,social,121.41,8916,282
+2026-09-09,103,Back to School,search,141.94,32129,1457
+2026-09-09,104,Author Spotlight,social,95.62,36193,2109
+2026-09-09,105,Winter Sale,display,150.16,37269,1816
+2026-09-10,101,Diwali Book Fest,email,88.74,19589,511
+2026-09-10,102,Summer Reads,social,146.22,7679,183
+2026-09-10,103,Back to School,search,207.09,32455,1249
+2026-09-10,104,Author Spotlight,social,258.27,24046,274
+2026-09-10,105,Winter Sale,display,119.35,13917,478
+2026-09-11,101,Diwali Book Fest,email,266.49,18931,511
+2026-09-11,102,Summer Reads,social,164.66,20105,759
+2026-09-11,103,Back to School,search,221.62,14521,207
+2026-09-11,104,Author Spotlight,social,87.29,34019,1284
+2026-09-11,105,Winter Sale,display,157.43,33201,1404
+2026-09-12,101,Diwali Book Fest,email,82.05,3130,45
+2026-09-12,102,Summer Reads,social,182.84,17945,454
+2026-09-12,103,Back to School,search,116.25,33015,1243
+2026-09-12,104,Author Spotlight,social,216.8,38070,1010
+2026-09-12,105,Winter Sale,display,84.55,19754,500
+2026-09-13,101,Diwali Book Fest,email,228.01,14621,376
+2026-09-13,102,Summer Reads,social,226.81,14133,276
+2026-09-13,103,Back to School,search,293.45,20120,930
+2026-09-13,104,Author Spotlight,social,294.54,36382,1449
+2026-09-13,105,Winter Sale,display,121.05,14721,365
+2026-09-14,101,Diwali Book Fest,email,169.56,21809,233
+2026-09-14,102,Summer Reads,social,35.27,19977,245
+2026-09-14,103,Back to School,search,55.36,21145,948
+2026-09-14,104,Author Spotlight,social,23.43,34170,516
+2026-09-14,105,Winter Sale,display,143.33,20634,690
+2026-09-15,101,Diwali Book Fest,email,90.69,14082,820
+2026-09-15,102,Summer Reads,social,38.3,33308,523
+2026-09-15,103,Back to School,search,196.24,34227,469
+2026-09-15,104,Author Spotlight,social,247.12,5513,96
+2026-09-15,105,Winter Sale,display,89.49,21912,312
+2026-09-16,101,Diwali Book Fest,email,189.77,38573,1860
+2026-09-16,102,Summer Reads,social,126.51,16790,819
+2026-09-16,103,Back to School,search,184.79,31014,771
+2026-09-16,104,Author Spotlight,social,193.89,30103,760
+2026-09-16,105,Winter Sale,display,78.18,8503,487
+2026-09-17,101,Diwali Book Fest,email,42.73,15829,367
+2026-09-17,102,Summer Reads,social,41.02,17719,331
+2026-09-17,103,Back to School,search,213.02,2175,66
+2026-09-17,104,Author Spotlight,social,84.81,32796,805
+2026-09-17,105,Winter Sale,display,147.13,20528,926
+2026-09-18,101,Diwali Book Fest,email,240.59,17297,972
+2026-09-18,102,Summer Reads,social,172.48,14964,467
+2026-09-18,103,Back to School,search,251.46,11764,651
+2026-09-18,104,Author Spotlight,social,241.94,6679,86
+2026-09-18,105,Winter Sale,display,142.96,39303,2203
+2026-09-19,101,Diwali Book Fest,email,215.93,32716,1453
+2026-09-19,102,Summer Reads,social,158.26,19841,694
+2026-09-19,103,Back to School,search,269.04,7271,290
+2026-09-19,104,Author Spotlight,social,27.24,23123,929
+2026-09-19,105,Winter Sale,display,254.07,17002,987
+2026-09-20,101,Diwali Book Fest,email,25.81,39696,1562
+2026-09-20,102,Summer Reads,social,233.67,19662,763
+2026-09-20,103,Back to School,search,202.42,13481,451
+2026-09-20,104,Author Spotlight,social,183.89,20229,385
+2026-09-20,105,Winter Sale,display,151.6,34225,2000
+2026-09-21,101,Diwali Book Fest,email,207.64,28761,766
+2026-09-21,102,Summer Reads,social,214.23,12539,332
+2026-09-21,103,Back to School,search,132.13,20888,900
+2026-09-21,104,Author Spotlight,social,44.66,38051,450
+2026-09-21,105,Winter Sale,display,291.65,18541,485
+2026-09-22,101,Diwali Book Fest,email,250.98,28488,1516
+2026-09-22,102,Summer Reads,social,171.93,2075,88
+2026-09-22,103,Back to School,search,165.16,29082,369
+2026-09-22,104,Author Spotlight,social,232.8,34669,1430
+2026-09-22,105,Winter Sale,display,56.68,15340,358
+2026-09-23,101,Diwali Book Fest,email,215.51,20876,666
+2026-09-23,102,Summer Reads,social,196.41,9957,113
+2026-09-23,103,Back to School,search,107.01,17682,804
+2026-09-23,104,Author Spotlight,social,46.1,2896,108
+2026-09-23,105,Winter Sale,display,52.89,9435,312
+2026-09-24,101,Diwali Book Fest,email,220.65,12090,422
+2026-09-24,102,Summer Reads,social,136.34,35349,1600
+2026-09-24,103,Back to School,search,88.24,33621,1984
+2026-09-24,104,Author Spotlight,social,73.37,38127,657
+2026-09-24,105,Winter Sale,display,58.22,35308,1670
+2026-09-25,101,Diwali Book Fest,email,241.2,6575,156
+2026-09-25,102,Summer Reads,social,240.56,29193,788
+2026-09-25,103,Back to School,search,99.19,19509,995
+2026-09-25,104,Author Spotlight,social,182.38,21566,1118
+2026-09-25,105,Winter Sale,display,145.03,34089,1815
+2026-09-26,101,Diwali Book Fest,email,174.54,33741,919
+2026-09-26,102,Summer Reads,social,281.2,37614,1085
+2026-09-26,103,Back to School,search,86.87,14363,847
+2026-09-26,104,Author Spotlight,social,237.15,27098,587
+2026-09-26,105,Winter Sale,display,152.43,4860,125
+2026-09-27,101,Diwali Book Fest,email,205.83,26984,790
+2026-09-27,102,Summer Reads,social,30.37,11968,416
+2026-09-27,103,Back to School,search,112.96,34918,2034
+2026-09-27,104,Author Spotlight,social,143.29,8577,460
+2026-09-27,105,Winter Sale,display,24.3,36468,2024
+2026-09-28,101,Diwali Book Fest,email,203.34,11447,349
+2026-09-28,102,Summer Reads,social,238.83,12116,166
+2026-09-28,103,Back to School,search,213.96,19368,521
+2026-09-28,104,Author Spotlight,social,258.66,7263,381
+2026-09-28,105,Winter Sale,display,108.67,36971,1072
+2026-09-29,101,Diwali Book Fest,email,30.05,33978,1821
+2026-09-29,102,Summer Reads,social,211.63,6484,140
+2026-09-29,103,Back to School,search,229.09,20833,1247
+2026-09-29,104,Author Spotlight,social,232.9,30440,1793
+2026-09-29,105,Winter Sale,display,214.32,8586,276

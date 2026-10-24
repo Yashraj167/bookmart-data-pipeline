@@ -1,0 +1,9 @@
+.venv/
+.env
+*.pem
+*.p8
+data/landing/
+target/
+logs/
+__pycache__/
+*.py[cod]
